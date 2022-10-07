@@ -8,7 +8,7 @@ browser
 compat */
 
 /* 
-    Layout wrapper Parent div
+    Introduction Page
 */
 
 body {
@@ -162,5 +162,74 @@ Mobile responsiveness
     margin: 2% auto;
     width: 90%;
     height: 200px;
+  }
+}
+
+/* 
+  Home Page
+*/
+
+.TextBox {
+  width: 90%;
+  height: 200px;
+  border: 2px solid;
+  margin: 1% auto;
+  text-align: center;
+}
+.NavigationMenu {
+  width: 90%;
+  height: 400px;
+  background-color: gray;
+  margin: 1% auto;
+  text-align: center;
+}
+.Tabs {
+  width: 90%;
+  height: 150px;
+  background-color: white;
+  margin: 0% auto;
+  text-align: center;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  border: 2px solid;
+}
+
+.FlipCards {
+  width: 90%;
+  height: 200px;
+  margin: 1% auto;
+  border: 2px solid;
+  text-align: center;
+}
+H1 {
+  text-align: center;
+}
+.TabsInner {
+  width: 50%;
+  height: 120px;
+  background-color: gray;
+  margin: auto;
+}
+
+/* 
+Home Page Mobile
+*/
+
+@media only screen and (max-width: 1025px) {
+  .Tabs {
+    width: 90%;
+    height: 150px;
+    background-color: white;
+    margin: 0% auto;
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border: 2px solid;
+  }
+  .TabsInner {
+    width: 60%;
+    height: 100px;
+    background-color: gray;
+    margin: auto;
   }
 }
