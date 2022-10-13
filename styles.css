@@ -183,7 +183,7 @@ iframe {
 Mobile responsiveness
 */
 
-@media only screen and (max-width: 1025px) {
+@media only screen and (max-width: 825px) {
   .Wrapper {
     width: 100%;
     height: auto;
@@ -320,7 +320,7 @@ H1 {
 Home Page Mobile
 */
 
-@media only screen and (max-width: 1025px) {
+@media only screen and (max-width: 925px) {
   .Tabs {
     width: 90%;
     height: 150px;
