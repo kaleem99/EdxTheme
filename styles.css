@@ -21,33 +21,68 @@ body {
 .Wrapper {
   width: 100%;
   height: auto;
-  background-color: white;
-  /* background-color: white; */
+  /* background-color: lightgray; */
+  /* background-color: gray; */
 }
 
 .Header {
   width: 100%;
   /* background-color: white; */
-  height: 160px;
+  height: 420px;
+}
+
+.Logo1 {
+  width: 120px;
+  height: 120px;
+  /* background-color: gray; */
+  margin-left: 10px;
+}
+.imageLogo {
+  width: 100px;
+  /* margin-left: 10px; */
+  padding: 10px;
 }
 .Banner {
   width: 100%;
+  height: 400px;
 }
 .twoColumnstextBlock {
   /* width: 100%; */
-  height: 650px;
-  background-color: white;
+  height: 400px;
+  /* background-color: gray; */
   display: grid;
   grid-template-columns: 50% 50%;
 }
 .textBlocksContentOverview {
   /* width: 100%; */
   width: 80%;
-  height: 260px;
+  height: 140px;
   background-color: white;
   /* margin: 3% auto; */
   margin: auto;
   padding: 10px;
+}
+/* .textBlocksContentOverview:nth-child(1), .textBlocksContentOverview:nth-child(2){
+  height: 80px;
+} */
+.textContent {
+  margin: 3% auto;
+}
+.textContentIcons {
+  list-style-type: none;
+  background-color: blue;
+  margin-left: 1px;
+  margin-right: auto;
+}
+li{
+  list-style-type: none;
+
+}
+ul li::before {
+  /* content: "\f005"; */
+  font-family: "Font Awesome 5 Free";
+  padding: 0 10px 0 0;
+  list-style-type: none;
 }
 .LineBreak {
   width: 100%;
@@ -57,27 +92,48 @@ body {
 }
 .Faculty {
   text-align: center;
+  margin-bottom: 5%;
 }
 .FacultyDiv {
   display: grid;
   column-gap: 20px;
-  grid-template-columns: auto auto auto auto;
-  background-color: white;
+  grid-template-columns: auto;
+  /* background-color: lightgray; */
   width: 100%;
-  height: 300px;
+  height: 400px;
+}
+hr {
+  width: 50%;
+  /* margin-left: 0px; */
 }
 .FacultyImage {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   background-color: white;
   margin: auto;
+}
+.img1 {
+  margin: 5% auto;
+  width: 300px;
+  height: 300px;
+}
+.CourseIntroduction {
+  width: 100%;
+  height: 420px;
+  /* background-color: lightgray; */
+  text-align: center;
+}
+iframe {
+  width: 50%;
+  height: 380px;
+  margin: 1% auto;
 }
 .Footer {
   width: 100%;
   height: 250px;
-  background-color: white;
+  background-color: #043461;
   display: grid;
-  grid-template-columns: auto 40%;
+  grid-template-columns: auto 300px;
   text-align: center;
 }
 .contactUs {
@@ -85,13 +141,16 @@ body {
   height: 200px;
   background-color: white;
   margin: auto auto auto 100px;
+  text-align: left;
 }
 .Logo2 {
-  margin: auto;
-  width: 70%;
-  height: 200px;
-  background-color: white;
+  width: 120px;
+  height: 120px;
+  /* background-color: gray; */
+  margin: 10% auto;
+  /* margin-right: 10px; */
 }
+
 .imageGallery {
 }
 
@@ -116,7 +175,7 @@ Mobile responsiveness
   .Wrapper {
     width: 100%;
     height: auto;
-    /* background-color: white; */
+    /* background-color: gray; */
   }
 
   .Header {
@@ -179,8 +238,7 @@ Mobile responsiveness
 .NavigationMenu {
   width: 90%;
   height: 400px;
-  background-color: white;
-  border: 2px solid;
+  background-color: gray;
   margin: 1% auto;
   text-align: center;
 }
@@ -208,7 +266,7 @@ H1 {
 .TabsInner {
   width: 50%;
   height: 120px;
-  background-color: white;
+  background-color: gray;
   margin: auto;
 }
 
@@ -230,7 +288,7 @@ Home Page Mobile
   .TabsInner {
     width: 60%;
     height: 100px;
-    background-color: white;
+    background-color: gray;
     margin: auto;
   }
 }
