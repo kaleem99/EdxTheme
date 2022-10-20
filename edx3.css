@@ -49,6 +49,10 @@ p{
     color:black;
  
 }
+.bibliography{
+    text-indent: -1.0cm;
+     margin: 0cm 0cm 12.0pt 1.0cm;
+}
 blockquote{
     font-size: 20px;
     width:80%;
