@@ -257,13 +257,13 @@ Home Page Mobile
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #cccccc;
+  background-color: #1475d4;
   color: #000000;
 }
 
 /* Style the back side */
 .flip-card-back {
-  background-color: #dddddd;
+  background-color: #1475d4;
   color: #000000;
   transform: rotateY(180deg);
 }
