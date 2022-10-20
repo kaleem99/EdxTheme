@@ -1,0 +1,480 @@
+WEBVTT
+
+00:05.760 --> 00:08.240
+Hello, and welcome to the
+                video for Module 1.
+
+00:08.400 --> 00:14.960
+In this video, my key point is to really talk about
+                business systems that support your business objectives.
+
+00:15.040 --> 00:20.920
+So, if you think about your business strategy, what we
+                want to do in the business case is to assess and
+
+00:20.920 --> 00:27.840
+evaluate the degree to which our existing systems,
+                the as-is scenario, supports your business objectives.
+
+00:28.240 --> 00:33.200
+Now, obviously, your context for that assessment
+                is: What are your business objectives?
+
+00:33.280 --> 00:34.480
+Where is your business now?
+
+00:34.840 --> 00:35.640
+Where is it heading?
+
+00:35.680 --> 00:36.640
+Where do you want it to go?
+
+00:37.000 --> 00:39.040
+That vision, the long-term
+                picture for the future.
+
+00:39.520 --> 00:40.280
+And what's the gap?
+
+00:40.520 --> 00:43.640
+And how do our systems actually
+                support that vision?
+
+00:43.920 --> 00:46.600
+So, just a couple of basics
+                around systems.
+
+00:46.720 --> 00:51.760
+First of all, when I talk about business systems, I
+                don't mean just the computer systems, or whatever
+
+00:51.760 --> 00:54.240
+is automated in your factory's
+                production line.
+
+00:54.800 --> 01:00.520
+I'm really talking about your business system as an
+                organism, the entire business, which includes
+
+01:00.760 --> 01:05.880
+your culture, your leadership style, how things are
+                done around here — not just the tasks and tools and
+
+01:05.920 --> 01:07.120
+processes that you follow.
+
+01:07.720 --> 01:13.960
+All of these things, ultimately, might result in,
+                what we might call a computerised system, or an
+
+01:14.000 --> 01:16.240
+automated system, or a factory's
+                production line.
+
+01:17.120 --> 01:23.680
+And just bear in mind that a computer system is a subset
+                of your entire business system as an organism itself.
+
+01:24.160 --> 01:29.320
+So, when we talk about business systems, I want you
+                to bear in mind that there are, really, two basic
+
+01:29.320 --> 01:30.800
+models that we're working with.
+
+01:30.880 --> 01:35.720
+One type is the linear process model, which
+                is really your input, throughput, output.
+
+01:35.960 --> 01:42.120
+And within each step, or each task, in a long
+                process, you might have a series of tasks.
+
+01:42.400 --> 01:46.520
+Each task itself can be broken down
+                into input, throughput, output.
+
+01:46.840 --> 01:52.040
+Remember the concept of holons and each system being
+                a holarchy containing its own sub-systems as
+
+01:52.040 --> 01:52.400
+well?
+
+01:52.680 --> 01:54.800
+It's really just that: input,
+                throughput, output.
+
+01:55.200 --> 02:00.720
+The other type of basic system can be modelled as a
+                circular system where, really, it's an infinite
+
+02:00.720 --> 02:01.080
+flow.
+
+02:01.160 --> 02:06.440
+It just keeps on repeating on itself, and you have
+                positive feedback where the system reinforces
+
+02:06.440 --> 02:10.720
+itself, or there's negative feedback which
+                involves the system balancing itself.
+
+02:11.040 --> 02:13.600
+If you think of the human
+                body and homeostasis.
+
+02:13.640 --> 02:18.040
+In other words, maintaining your temperature, or
+                maintaining your energy levels, maintaining
+
+02:18.040 --> 02:20.640
+your hydration levels in your body.
+
+02:21.200 --> 02:26.040
+That's a concept of homeostasis where the system
+                relies on negative feedback to ensure that you
+
+02:26.040 --> 02:29.360
+maintain the right temperature for,
+                you know, healthy survival.
+
+02:30.600 --> 02:32.640
+And business systems operate
+                in much the same way.
+
+02:32.880 --> 02:37.440
+Obviously, there will be exogenous or
+                external factors that cause changes.
+
+02:37.480 --> 02:41.160
+If you're in a cold room, your body is going to
+                want to shiver to increase the temperature.
+
+02:41.840 --> 02:47.920
+When a business hits an economic slump, your business
+                needs to shiver and do something to activate
+
+02:47.960 --> 02:55.200
+its markets and, you know, generate more leads, or
+                exploit the customers that it has by having them
+
+02:55.240 --> 02:58.640
+increase their basket size, or spend more
+                money over their lifetime with you.
+
+02:58.800 --> 03:03.800
+So, those are ways that your business tries to
+                maintain its own homeostasis as an organism.
+
+03:04.920 --> 03:08.240
+So, I want to tell you about a story with
+                one of my clients several years ago.
+
+03:09.200 --> 03:16.440
+She was the owner of a business where they provided
+                a service in the interior décor and, sort of, furniture market.
+
+03:16.520 --> 03:21.360
+But, essentially, the business was in a situation
+                where they had an overcapacity.
+
+03:21.480 --> 03:24.720
+It was very soon after the
+                2008 economic crisis.
+
+03:25.280 --> 03:31.560
+And they had an overcapacity where their demand for
+                their services had dropped down a little bit, and
+
+03:31.600 --> 03:36.320
+she was in a situation where they were having their
+                staff work half-days, you know, they were working
+
+03:36.320 --> 03:36.960
+short-time.
+
+03:37.240 --> 03:42.040
+She was laying off a couple of people, but she still
+                had the infrastructure, the factory, where the
+
+03:42.040 --> 03:44.600
+factory was underutilised and
+                staff were underutilised.
+
+03:45.560 --> 03:48.720
+Revenue had, obviously, dropped down because
+                of the general market conditions.
+
+03:49.000 --> 03:56.120
+So, the business's objective, the vision was: How do
+                we exploit the capacity and the infrastructure
+
+03:56.120 --> 03:56.800
+that we have?
+
+03:57.000 --> 03:58.720
+And how do we look after our people?
+
+03:58.760 --> 04:00.800
+You know, we're not downsizing
+                or anything like that.
+
+04:01.000 --> 04:03.880
+How do we turn that around
+                and grow revenues?
+
+04:04.560 --> 04:10.200
+And in the conversation, in the coaching conversation,
+                many of the things that we spoke about; we
+
+04:10.240 --> 04:15.760
+assessed their feasibility, you know, high-level options,
+                until we got to one point where I asked
+
+04:15.760 --> 04:18.000
+her about her sales pipeline.
+
+04:18.240 --> 04:23.280
+How does she manage from when a lead
+                is generated to the point of sale?
+
+04:23.640 --> 04:24.720
+How do they manage that?
+
+04:25.000 --> 04:29.080
+And I took a systems analysis approach to that
+                and asked, "Okay, what are the steps?"
+
+04:29.120 --> 04:35.400
+So, these are the two entry points for a lead that's
+                been generated: either the customer phones in, or
+
+04:35.440 --> 04:38.120
+it's a walk-in customer they — literally
+                walk into the showroom.
+
+04:38.200 --> 04:41.360
+What happens next is, there's a
+                needs analysis that's done.
+
+04:41.520 --> 04:43.760
+This is your next stage in
+                the quoting process.
+
+04:44.000 --> 04:48.360
+The sales assistant will ask a couple of questions,
+                the customer will say it's this kind of
+
+04:48.360 --> 04:53.000
+environment, this is a kind of feel that they want in
+                their home environment, and next step after that
+
+04:53.000 --> 04:54.360
+is, "Well, here are the options."
+
+04:54.840 --> 05:00.040
+Customer considers a couple of options, picks one,
+                picks two, or configures the solution in a
+
+05:00.080 --> 05:02.920
+certain way and that, then,
+                turns into a quote.
+
+05:03.320 --> 05:06.640
+And then I asked my client in the coaching
+                session, "So, what happens next?"
+
+05:07.080 --> 05:11.560
+And the next step was, well, the customer will come
+                back and say, "This is your order number," or, "I
+
+05:11.560 --> 05:14.680
+phoned in two weeks ago and asked
+                about this, you quoted me, sir."
+
+05:14.760 --> 05:15.760
+You know, this kind of thing.
+
+05:15.800 --> 05:16.640
+"This is the price.
+
+05:16.720 --> 05:17.320
+Can you do it?"
+
+05:17.760 --> 05:19.400
+And that was their system.
+
+05:19.880 --> 05:23.520
+So, immediately I realised, well, maybe
+                there's a gap in the system.
+
+05:23.720 --> 05:26.080
+Perhaps what they could do is follow up.
+
+05:26.440 --> 05:31.240
+And maybe have, say, after a week, after two weeks,
+                after some sort of time frame, go back into their
+
+05:31.240 --> 05:36.640
+quote book and see all the old quotes that have not
+                been accepted yet and turned into orders that have
+
+05:36.680 --> 05:40.880
+been placed; can they follow up more actively
+                and be proactive with those customers?
+
+05:41.040 --> 05:42.080
+She did exactly that.
+
+05:42.120 --> 05:48.640
+She instituted another step in her process where they
+                would go, on a weekly or daily basis, they would
+
+05:48.680 --> 05:52.160
+go into their quote book and look up
+                all the old unaccepted quotes.
+
+05:52.240 --> 05:56.600
+Anything that was older than two weeks, that which
+                had not been accepted yet, they actually phoned
+
+05:56.640 --> 05:57.320
+that customer.
+
+05:58.040 --> 05:59.280
+And two things came out of this.
+
+05:59.360 --> 06:04.240
+First of all, they got a lot more precise about the
+                data they were capturing from each customer, but
+
+06:04.240 --> 06:10.520
+the big benefit was, after about three months, in
+                a follow-up coaching session, my customer- my
+
+06:10.560 --> 06:14.800
+client said in the coaching conversation that, actually,
+                what happened, and this is what, this was
+
+06:14.800 --> 06:20.120
+their business objective — to grow revenue — 
+                they had increased revenue by 50%.
+
+06:20.920 --> 06:26.000
+Such a simple change made such a big difference
+                in achieving the business objective.
+
+06:26.360 --> 06:30.040
+You know, from the initial coaching conversation
+                of, "Hey, I need a coach.
+
+06:30.080 --> 06:31.760
+Can you help me save the business?
+
+06:31.840 --> 06:37.800
+I want to save the business from shutting down and
+                having to fire people and, you know, losing my livelihood."
+
+06:38.440 --> 06:43.000
+We turned that business around and it was, you know,
+                one of my favourite success stories from a
+
+06:43.040 --> 06:48.720
+coaching-success point of view, but from a business
+                systems point of view, can you see how a simple
+
+06:48.760 --> 06:50.600
+tweak made such a big difference?
+
+06:50.640 --> 06:55.040
+And, literally, it took them five minutes to just go
+                through that quote book and pick out all the old
+
+06:55.080 --> 06:58.120
+orders, phone those customers,
+                and see what happens.
+
+06:58.880 --> 07:00.480
+So, just a quick recap.
+
+07:00.720 --> 07:04.760
+The basic principles are; you need to understand,
+                first of all, what the business objectives are.
+
+07:04.960 --> 07:08.560
+You have to have a clear picture of
+                what is the business objective.
+
+07:08.800 --> 07:09.480
+What's your vision?
+
+07:09.520 --> 07:11.560
+Break that down into, maybe,
+                sub-objectives.
+
+07:11.920 --> 07:16.040
+You cannot start a project without assessing what your
+                various options are, in relation to where you
+
+07:16.080 --> 07:17.600
+are now and where you want to be.
+
+07:18.280 --> 07:22.640
+Then, when you sit your business- Sorry, your project
+                objective, whatever the system needs to be
+
+07:23.240 --> 07:26.440
+doing for the business, be clear
+                about the system's function.
+
+07:27.000 --> 07:28.920
+That, then, drives your
+                project objective.
+
+07:29.640 --> 07:33.840
+When you start your project, be clear that the
+                project is not going to satisfy the business objective.
+
+07:34.160 --> 07:38.320
+Your project is going to build a system, implement
+                that system, and that's the project objective.
+
+07:38.360 --> 07:42.880
+When that project is signed off, that's when you've
+                handed over your system, and it's now the
+
+07:42.880 --> 07:48.440
+business owner or the systems owner's responsibility
+                to exploit that system in order to achieve
+
+07:48.480 --> 07:49.400
+the business objective.
+
+07:49.960 --> 07:55.560
+So, the project doesn't achieve the business objective;
+                the project's deliverable achieves the business objective.
+
+07:55.600 --> 07:56.360
+Be clear on that.
+
+07:56.960 --> 07:57.680
+If you're clear on those things,
+
+07:57.680 --> 08:02.360
+then you can have a good approach to assessing
+                the degree to which your business systems
+
+08:02.760 --> 08:07.560
+currently serve your business objective and what your
+                new business systems, or changes, need to do
+
+08:07.600 --> 08:09.120
+to support the business objectives.
+
+08:09.760 --> 08:11.600
+It's all about your systems.
+
+08:11.640 --> 08:12.600
+Let's talk on the forum.
+

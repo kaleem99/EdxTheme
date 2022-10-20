@@ -102,7 +102,9 @@ text {
 }
 .ContactUs {
   text-align: center;
-  height: 400px;
+  height: auto;
+  width: 50%;
+  margin: auto;
 }
 .FacultyDiv {
   /* display: grid; */
@@ -110,7 +112,7 @@ text {
   /* grid-template-columns: auto; */
   /* background-color: lightgray; */
   width: 100%;
-  height: 400px;
+  height: auto;
 }
 hr {
   width: 50%;
@@ -132,14 +134,14 @@ hr {
   height: 420px;
   text-align: center;
 }
-iframe {
+video {
   width: 50%;
   height: 380px;
   margin: 1% auto;
 }
 .Footer {
   width: 100%;
-  height: 250px;
+  height: auto;
   background-color: #043461;
   display: grid;
   grid-template-columns: auto 300px;
@@ -147,57 +149,16 @@ iframe {
 }
 .contactUs {
   width: 90%;
-  height: 200px;
+  height: auto;
   background-color: white;
   margin: auto auto auto 100px;
   text-align: left;
 }
 
-/* contact Us form */
 
-label,
-input {
-  font-family: Arial, Helvetica, sans-serif;
-}
-* {
-  box-sizing: border-box;
-}
-
-input[type="text"],
-select,
-textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
-
-input[type="submit"] {
-  background-color: #04aa6d;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-input[type="submit"]:hover {
-  background-color: #45a049;
-}
-
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-}
-/* end of form */
 .Logo2 {
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   margin: 10% auto;
 }
 
@@ -222,6 +183,7 @@ Mobile responsiveness
 */
 
 @media only screen and (max-width: 825px) {
+
   .Wrapper {
     width: 100%;
     height: auto;
@@ -250,7 +212,11 @@ Mobile responsiveness
   .Header {
     width: 100%;
     /* background-color: white; */
-    height: 320px;
+    height: auto;
+  }
+  .ContactUs{
+    width: 80%;
+
   }
   .twoColumnstextBlock {
     width: 100%;
@@ -287,7 +253,7 @@ Mobile responsiveness
     width: 170px;
     height: 160px;
   }
-  iframe {
+  video {
     width: 80%;
     height: 220px;
   }
