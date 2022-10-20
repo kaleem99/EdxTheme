@@ -28,7 +28,7 @@ body {
 .Header {
   width: 100%;
   /* background-color: white; */
-  height: 420px;
+  height: auto;
 }
 
 .Logo1 {
