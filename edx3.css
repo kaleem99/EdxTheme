@@ -10,6 +10,7 @@ h1{
 }
 .H1{
     color:#0a2d49;
+    text-align: center;
 }
 h2{
     color:#0a2d49;
@@ -53,12 +54,12 @@ blockquote{
     width:80%;
     margin:50px auto;
     
-    color: #ffffff47;
+    color: black;
     padding:1.2em 30px 1.2em 75px;
     border-left:8px solid #020f53ef ;
     line-height:26px;
     position: relative;
-    /* background:#EDEDED; */
+    background:#EDEDED;
   }
   
   
