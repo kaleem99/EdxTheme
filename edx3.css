@@ -125,6 +125,16 @@ blockquote{
     font-style: italic; 
  
 }
+.image-caption{
+    box-sizing: border-box;
+    font-size: 17px;
+    line-height: 23px;
+    margin-top: 0px;
+    text-align: center;
+    font-style: italic; 
+ 
+}
+
 .explore-further{
 border: 5px solid ;    
   border-radius: 0px;
