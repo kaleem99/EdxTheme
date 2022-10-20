@@ -107,3 +107,9 @@ border: 5px solid ;
   padding: 25px; 
 }
 /*  */
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+  background-color: #930c60;
+  color: #ffffff;
+}
