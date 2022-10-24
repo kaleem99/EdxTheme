@@ -52,6 +52,10 @@ p{
     color:black;
  
 }
+.biblio{
+    text-indent: -1.0cm;
+    margin: 0cm 0cm 12.0pt 1.0cm;
+}
 .bibliography{
     text-indent: -1.0cm;
      margin: 0cm 0cm 12.0pt 1.0cm;
