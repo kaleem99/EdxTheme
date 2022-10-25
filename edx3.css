@@ -120,6 +120,26 @@ blockquote{
      color:   #1475d4;
      padding-left: 25px;
    }
+   .Reminder-solid-border{
+    border:5x solid ;    
+     border-radius: 0px;
+     color:   #1475d4;
+     padding-left: 25px;
+   }
+   .Note-solid-border{
+    border:5x solid ;    
+     border-radius: 0px;
+     color:   #1475d4;
+     padding-left: 25px;
+   }
+   .copyright-solid-border{
+    border:1px solid ;    
+    font-style: italic;
+
+     color:   black;
+     padding: 10px;
+     text-align: right;
+   }
 .video-caption{
     box-sizing: border-box;
     font-size: 17px;
